@@ -9,7 +9,7 @@ alpha버전 테스트는 Windows-64bit 운영체제에서 진행되었고 다른
 
 numpy, opencv, mediapipe, pynput, pyautogui가 설치되어있어야 한다.
 
-main.py : 실행시키면 CAT이 작동된다.
+main.py : 실행시키면 CAT이 작동된다. 종료시키려면 ESC키를 누르면 된다.
 mcat.py : main.py에서 사용되는 모듈이다. main.py와 같은 폴더 내에 있어야만 정상작동한다.
 
 [메뉴얼-손 모양에 따른 동작]
