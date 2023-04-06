@@ -5,7 +5,7 @@ ver 1.0.1-beta
 .
 .
 .
-alpha버전 테스트는 Windows-64bit 운영체제에서 진행되었고 다른 운영체제는 테스트해보지 않았다(리눅스에서는 VideoCapture(0)를 VideoCapture(1)로 해야 작동된다고 SYH가 말했던 것 같긴 하다).
+alpha버전 테스트는 Windows-64bit 운영체제에서 진행되었고 다른 운영체제는 테스트해보지 않았다(리눅스에서는 VideoCapture(0)를 VideoCapture(1)로 해야 작동된다고 했던 것 같긴 하다).
 
 numpy, opencv, mediapipe, pynput, pyautogui가 설치되어있어야 한다.
 
