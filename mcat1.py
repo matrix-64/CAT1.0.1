@@ -162,4 +162,4 @@ class CAT:
         del self
 
     def __del__(self):
-        print("Thank you for using CAT!!!\n개발자 : 김주완\n버전 1.0.1-beta")
+        print("Thank you for using CAT!!!\n개발자 : 김주완\n버전 1.0.1")
